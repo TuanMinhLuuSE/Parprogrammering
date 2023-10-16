@@ -13,3 +13,17 @@ C:\Users\minht\source\repos\ParprogrammeringInlämningsUppgift2\Parprogrammering
 C:\Users\minht\source\repos\ParprogrammeringInlämningsUppgift2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\ParprogrammeringInlämningsUppgift2.pdb
 C:\Users\minht\source\repos\ParprogrammeringInlämningsUppgift2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\ParprogrammeringInlämningsUppgift2.genruntimeconfig.cache
 C:\Users\minht\source\repos\ParprogrammeringInlämningsUppgift2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\ref\ParprogrammeringInlämningsUppgift2.dll
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\ParprogrammeringInlämningsUppgift2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\ParprogrammeringInlämningsUppgift2.AssemblyInfoInputs.cache
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\ParprogrammeringInlämningsUppgift2.AssemblyInfo.cs
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\ParprogrammeringInlämningsUppgift2.csproj.CoreCompileInputs.cache
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\ParprogrammeringInlämningsUppgift2.dll
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\refint\ParprogrammeringInlämningsUppgift2.dll
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\ParprogrammeringInlämningsUppgift2.pdb
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\bin\Debug\net6.0\ParprogrammeringInlämningsUppgift2.exe
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\bin\Debug\net6.0\ParprogrammeringInlämningsUppgift2.deps.json
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\bin\Debug\net6.0\ParprogrammeringInlämningsUppgift2.runtimeconfig.json
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\bin\Debug\net6.0\ParprogrammeringInlämningsUppgift2.dll
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\bin\Debug\net6.0\ParprogrammeringInlämningsUppgift2.pdb
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\ParprogrammeringInlämningsUppgift2.genruntimeconfig.cache
+C:\Users\JA365\Documents\NBI-Handelsakademin\source\Test\Parprogrammering2\ParprogrammeringInlämningsUppgift2\obj\Debug\net6.0\ref\ParprogrammeringInlämningsUppgift2.dll

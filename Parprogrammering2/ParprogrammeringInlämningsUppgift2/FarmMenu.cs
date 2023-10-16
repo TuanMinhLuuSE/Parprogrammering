@@ -16,6 +16,10 @@ namespace ParprogrammeringInlämningsUppgift2
             Console.WriteLine("1: Hantera djuren.");
             Console.WriteLine("2: Hantera skörden");
 
+            AnimalManager animalManager = new AnimalManager();
+            animalManager.ViewAnimal();
+
+
 
 
 

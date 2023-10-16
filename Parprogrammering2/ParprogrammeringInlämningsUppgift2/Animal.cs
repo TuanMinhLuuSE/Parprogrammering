@@ -18,5 +18,12 @@ namespace ParprogrammeringInlämningsUppgift2
             this.AcceptableCropType = AcceptableCropType;
 
         }
+
+        public override void GetDescription()
+        {
+            string sentence = $"{Id} {Name} {Species} {AcceptableCropType}\n";
+            Console.Write(sentence);
+        }
+      
     }
 }

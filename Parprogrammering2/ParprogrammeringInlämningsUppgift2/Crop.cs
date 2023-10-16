@@ -17,5 +17,11 @@ namespace ParprogrammeringInlämningsUppgift2
             this.CropType = CropType;
             this.quantity = quantity;
         }
+
+        public override void GetDescription()
+        {
+         
+        }
     }
+
 }

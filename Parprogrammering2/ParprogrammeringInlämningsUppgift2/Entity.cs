@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParprogrammeringInlämningsUppgift2
 {
-    internal class Entity
+    internal abstract class Entity
     {
         public int Id { get; set; }
         protected string Name { get; set; }
@@ -18,9 +18,7 @@ namespace ParprogrammeringInlämningsUppgift2
             Name = name;
         }
 
-        public void GetDescription()
-        {
-
-        }
+        public abstract void GetDescription();
+      
     }
 }
