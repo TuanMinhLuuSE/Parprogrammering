@@ -24,6 +24,17 @@ namespace ParprogrammeringInlämningsUppgift2
             string sentence = $"{Id} {Name} {Species} {AcceptableCropType}\n";
             Console.Write(sentence);
         }
-      
+
+        public void Feed(string input2)
+        {
+            CropManager crop = new CropManager();
+            foreach (Crop crops in crop.CropList)
+            {
+                if (input2 == crops.CropType && input2 == AcceptableCropType)
+                {
+                    crops.TakeCrop(input2);
+                }
+            }
+        }
     }
 }

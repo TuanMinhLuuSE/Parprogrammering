@@ -17,8 +17,6 @@ namespace ParprogrammeringInlämningsUppgift2
             Id = id;
             Name = name;
         }
-
-        public abstract void GetDescription();
-      
+        public abstract void GetDescription();   
     }
 }
